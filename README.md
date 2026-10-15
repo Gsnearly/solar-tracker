@@ -1,6 +1,6 @@
 # Solar Tracker — Arduino UNO R4 WiFi
 
-A standalone dual-axis solar tracker with four photoresistors, two servos, and an onboard Wi-Fi access point/web dashboard. **No router, internet, Raspberry Pi, or external web server required.**
+A standalone dual-axis solar tracker with four photoresistors, two servos, and an onboard Wi-Fi access point/web dashboard.
 
 ## Wi-Fi and dashboard
 
